@@ -185,25 +185,25 @@ function App() {
             <Room
               name={"Standard"}
               description="Ideal for a simple visit"
-              imageURL="/assets/room1.jpg"
+              imageURL="/assets/room1.webp"
               price={60}
             />
             <Room
               name={"Standard+"}
               description="For those who want more"
-              imageURL="/assets/room2.jpg"
+              imageURL="/assets/room2.webp"
               price={80}
             />
             <Room
               name={"Bungalow"}
               description="Great view, great space"
-              imageURL="/assets/room3.jpg"
+              imageURL="/assets/room3.webp"
               price={120}
             />
             <Room
               name={"Family"}
               description="Suitable for a big family"
-              imageURL="/assets/room4.jpg"
+              imageURL="/assets/room4.webp"
               price={200}
             />
           </div>
@@ -334,7 +334,7 @@ function App() {
             <div>
               <img
                 className="duration-300 cursor-pointer w-full object-cover rounded-xl border md:hover:shadow-xl"
-                src="/assets/hotel.jpg"
+                src="/assets/hotel.webp"
                 alt=""
               />
             </div>
