@@ -482,24 +482,42 @@ function App() {
                 </p>
               </div>
               <div className="flex space-x-4 text-xl">
-                <p className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer">
+                <a
+                  href="#instagram"
+                  className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer"
+                >
                   <Icon name="instagram" type="logo" className="m-auto" />
-                </p>
-                <p className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer">
+                </a>
+                <a
+                  href="#instagram"
+                  className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer"
+                >
                   <Icon name="facebook" type="logo" className="m-auto" />
-                </p>
-                <p className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer">
+                </a>
+                <a
+                  href="#instagram"
+                  className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer"
+                >
                   <Icon name="twitter" type="logo" className="m-auto" />
-                </p>
-                <p className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer">
+                </a>
+                <a
+                  href="#youtube"
+                  className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer"
+                >
                   <Icon name="youtube" type="logo" className="m-auto" />
-                </p>
-                <p className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer">
+                </a>
+                <a
+                  href="#pinterest"
+                  className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer"
+                >
                   <Icon name="pinterest" type="logo" className="m-auto" />
-                </p>
-                <p className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer">
+                </a>
+                <a
+                  href="#tumblr"
+                  className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer"
+                >
                   <Icon name="tumblr" type="logo" className="m-auto" />
-                </p>
+                </a>
               </div>
               <p className="flex flex-col space-y-4">
                 <span className="my-auto">
