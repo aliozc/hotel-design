@@ -1,4 +1,4 @@
-# 🏨 hotel-design
+# 🏨 React Hotel Design
  A beautiful landing page for a hotel, built with React and TailwindCSS.
 
  ![screenshot](/screenshot.png)
