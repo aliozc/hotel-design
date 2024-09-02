@@ -490,13 +490,13 @@ function App() {
                   <Icon name="instagram" type="logo" className="m-auto" />
                 </a>
                 <a
-                  href="#instagram"
+                  href="#facebook"
                   className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer"
                 >
                   <Icon name="facebook" type="logo" className="m-auto" />
                 </a>
                 <a
-                  href="#instagram"
+                  href="#twitter"
                   className="flex hover:bg-gray-200 p-px rounded-full cursor-pointer"
                 >
                   <Icon name="twitter" type="logo" className="m-auto" />
